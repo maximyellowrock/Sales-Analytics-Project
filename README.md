@@ -118,7 +118,7 @@ etl/load_staging.py
 Update
 
 ```python
-SERVER_NAME = r"MaximYellowrock"
+SERVER_NAME = r"YOUR_SERVER_NAME"
 DATABASE_NAME = "SalesAnalyticsDB"
 ```
 
@@ -197,11 +197,11 @@ The warehouse follows a Star Schema design.
 
 ## Dashboard
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/Dashboard_overview.png)
 
 ## Dashboard With Filters
 
-![Dashboard](images/dashboard_filtered.png)
+![Dashboard](images/Dashboard_filtered.png)
 
 ---
 
@@ -271,5 +271,7 @@ Sales-Analytics-Project/
 ---
 
 # Author
+
+**Maxim Fidanov Irinov**
 
 Portfolio project created for Data Analyst / Business Intelligence positions.
